@@ -27,11 +27,5 @@ Analysis of why sklearn’s NMF underperforms (no bias terms, dense fill, loss f
 
 Suggestions for improvement (biased MF, weighted loss, better algorithms)
 
-📄 Deliverables
-
-One Jupyter Notebook containing analysis, code, and results
-
-Kaggle submission files (NMF, LogReg, Linear SVM)
-
-Short discussion on NMF’s limitations and alternative solutions
+s
 <img width="229" height="160" alt="image" src="https://github.com/user-attachments/assets/4efda8b8-34e7-4861-b99a-238ccd185bb0" />
