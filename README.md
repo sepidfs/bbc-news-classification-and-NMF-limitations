@@ -28,4 +28,5 @@ Analysis of why sklearn’s NMF underperforms (no bias terms, dense fill, loss f
 Suggestions for improvement (biased MF, weighted loss, better algorithms)
 
 
-<img width="229" height="160" alt="image" src="https://github.com/user-attachments/assets/4efda8b8-34e7-4861-b99a-238ccd185bb0" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/a74fbd05-88bd-44c5-8e15-90b1b765aba9" />
+
